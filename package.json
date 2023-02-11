@@ -7,12 +7,5 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/adrolli/flag-icons"
-  },
-  "files": [
-    "css",
-    "flags",
-    "less",
-    "sass",
-    "country.json"
-  ],
+  }
 }
